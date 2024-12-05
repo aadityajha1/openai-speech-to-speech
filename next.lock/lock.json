@@ -1,0 +1,4 @@
+{
+  "https://unpkg.com/@xenova/transformers@2.13.2": { "resolved": "https://unpkg.com/@xenova/transformers@2.13.2/dist/transformers.min.js", "integrity": "sha512-gNRuvcL2FAN/uV+WArJR4PuFSO9d2FGVVcYmJvFu4JyF6urYGKuPOh0bLHeZzgAPkF0T9QA5qBIjE0zojVxyLQ==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
